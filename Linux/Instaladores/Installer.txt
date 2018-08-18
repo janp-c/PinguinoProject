@@ -1,0 +1,4 @@
+Linux/Mac
+
+Execution permissions with: sudo chmod +x installer.sh
+Execute the script with: sudo ./installer.sh
