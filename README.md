@@ -12,4 +12,5 @@ a la siguiente dirección e-mail: "soft.electry@gmail.com" para darte más detal
 © JANP-C SoftElectry.
 
 WebSite: https://janp-c.com/
+
 E-mail: info@janp-c.com
