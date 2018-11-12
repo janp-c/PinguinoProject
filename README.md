@@ -11,4 +11,4 @@ a la siguiente dirección e-mail: "info@janp-c.com" para darte más detalles de 
 
 © JANP-C SoftElectry.
 
-WebSite: https://www.janp-c.com/
+WebSite: https://janp-c.com/
